@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "862225887397",
+    "project_id": "nutrinat-e-com-1c1bb7",
+    "storage_bucket": "nutrinat-e-com-1c1bb7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:862225887397:android:8267995a6d5c8050725d4c",
+        "android_client_info": {
+          "package_name": "com.nutrinatcompanyclient.com"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "862225887397-0u5uroja5gj22rnhjb8aqetbe59nceo4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nutrinatcompanyclient.com",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "862225887397-moet9ltc5fosre5s3t8v327dimbeneoj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOijE36JL9hEc7IDu85yWSSOUdRFWJ0bw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "862225887397-moet9ltc5fosre5s3t8v327dimbeneoj.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "862225887397-pkcba52d7jk3n9rh1itcbmcnvfno203s.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.nutrinatcompanyclient.com"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
